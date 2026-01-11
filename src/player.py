@@ -1,3 +1,3 @@
 class Player:
-    def __init__(self, is_computer):
-        self.is_computer = is_computer
+    def __init__(self, name):
+        self.name = name
